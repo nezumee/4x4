@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name fourbyfour)(type KiCad)(uri ${KIPRJMOD}/../fourbyfour/fourbyfour.pretty)(options "")(descr ""))
+  (lib (name kbd)(type KiCad)(uri ${KIPRJMOD}/../kbd/kicad-footprints/kbd.pretty)(options "")(descr ""))
+  (lib (name ssd1306)(type KiCad)(uri ${KIPRJMOD}/ssd1306.pretty)(options "")(descr ""))
+)
