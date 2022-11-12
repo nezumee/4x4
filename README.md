@@ -97,7 +97,9 @@ This keyboard is using QMK. Example layout making the keyboard work as a combina
 
 QMK has MIDI support that allows using the keyboard as a MIDI controller. Per-key RGB also makes it possible to have MIDI feedback, such that each key lights up depending on the status in the DAW. For example, you can set it up that keyboard keys trigger clips or scenes, and have those keys light up in the right color when there's an active clip or when a track is armed for recording.
 
-This support requires some integration in the DAW. Remote MIDI script for Ableton Live working with the planck-like layout is [here](ableton_live/FourByFour).
+![planck layout with MIDI clips](images/planck_midi.jpg)
+
+This support requires some integration in the DAW. Remote MIDI script for Ableton Live working with the Planck-like layout is [here](ableton_live/FourByFour).
 
 
 ## License
