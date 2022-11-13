@@ -47,8 +47,8 @@ This builds a chain of key modules, connecting the last LED in the preceding mod
 
 | Item | Quantity | Comment | Source |
 | --- | --- | --- | --- |
-| Head PCB | 1 |
-| Key PCBs | 1-4 |
+| Head PCB | 1 | [KiCad source](pcb/headfour/) | [gerber](pcb/gerbers/headfour.zip) |
+| Key PCBs | 1-4 | [KiCad source](pcb/fourbyfour/) | [gerber](pcb/gerbers/fourbyfour.zip) |
 | ProMicro MCU | 1 |
 | MCU socket | 1 | 2 strips of 12 pins each | https://www.digikey.com/en/products/detail/mill-max-manufacturing-corp/310-43-112-41-001000/1212186 |
 | Reset tactile button | 1 | |
