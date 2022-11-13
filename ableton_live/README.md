@@ -1,3 +1,6 @@
+These scripts have been created based on https://github.com/laidlaw42/ableton-live-midi-remote-scripts , with some tweaks added.
+---
+
 # Ableton Live Custom MIDI Remote Scripts
 
 Scripts for creating custom MIDI Remote Scripts for Ableton Live.
